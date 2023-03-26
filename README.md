@@ -1,6 +1,6 @@
 # Basic-Stats-using-Python-1
 
-### This Assignment consists the following basic applications of statistics
+#### This Assignment consists the following basic applications of statistics
 - Data Types 
     ( Continuous, Discrete, Nominal, Ordinal, Interval, Ratio )
 - Measures of Central Tendency
@@ -13,3 +13,10 @@
     ( Kurtosis )
     
     
+### Packages used
+- Pandas
+- Numpy
+- Scipy
+- Matplotlib 
+- Seaborn
+- Math
